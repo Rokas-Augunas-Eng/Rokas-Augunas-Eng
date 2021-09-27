@@ -1,10 +1,10 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h1>
 <h3 align="center">Welcome to my page! </br> I'm Rokas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197612.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://image.flaticon.com/icons/svg/323/323329.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems and playing chess. </h3>
 
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-Rokas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rokasaugunas/)](https://www.linkedin.com//in/rokasaugunas/)
-  [![Gmail Badge](https://img.shields.io/badge/-augunasr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Gmail Badge](https://img.shields.io/badge/-augunasr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augunasr@gmail.com)](mailto:augunasr@gmail.com)
 </div>
 <br>
 
