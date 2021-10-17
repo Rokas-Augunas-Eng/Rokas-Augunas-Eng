@@ -6,6 +6,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Rokas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rokasaugunas/)](https://www.linkedin.com//in/rokasaugunas/)
   [![Gmail Badge](https://img.shields.io/badge/-augunasr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augunasr@gmail.com)](mailto:augunasr@gmail.com)
   [![Portfolio Badge](https://rokas.click/)]
+  Portfolio	![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </div>
 <br>
 
