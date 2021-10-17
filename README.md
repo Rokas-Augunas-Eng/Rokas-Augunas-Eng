@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- 🔭 I’m am working on my personal app called [Bike-fix](http://www.Bikefix.site)
+- 🔭 I’m am working on my personal app called [Bike-fix](http://www.Bikefix.site) and you can watch the demo here [Youtube](https://www.youtube.com/watch?v=dhEg066yylI)
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
