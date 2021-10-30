@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h1>
-<h3 align="center">Welcome to my page! </br> I'm Rokas, a software developer from <img src="https://image.flaticon.com/icons/svg/323/323329.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://image.flaticon.com/icons/svg/323/323329.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and deadlifting. </h3>
+<h3 align="center">Welcome to my page! </br> I'm Rokas, a software developer from <img src="https://image.flaticon.com/icons/svg/323/197612.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://image.flaticon.com/icons/svg/323/323329.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and deadlifting. </h3>
 
 <div align="center">
 
