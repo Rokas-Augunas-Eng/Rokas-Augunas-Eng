@@ -8,7 +8,6 @@
   <p><a href="https://rokas.click/">➡️ Check out my website</a></p>
 </div>
 <br>
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Web Development**
