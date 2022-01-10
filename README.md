@@ -8,9 +8,10 @@
   <p><a href="https://rokas.click/">➡️ Check out my website</a></p>
 </div>
 <br>
-- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Web Development**
+🌱 I’m currently learning **TypeScript**
+
+💬 Ask me about **Web Development**
 
 <h3 align="left">What I always play with</h3>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
