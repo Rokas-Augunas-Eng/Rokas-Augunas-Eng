@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h1>
-<h3 align="center">Welcome to my page! </br> I'm Rokas, a software developer from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and deadlifting. </h3>
+<h3 align="center">Welcome to my page! </br> I'm Rokas, a software engineer working at SaltPay. I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and deadlifting. </h3>
 
 <div align="center">
 
@@ -9,9 +9,7 @@
 </div>
 <br>
 
-- 🔭 I’m am working on my personal app called [Bike-fix](http://www.Bikefix.site) and you can watch the demo here [Youtube](https://www.youtube.com/watch?v=dhEg066yylI)
-
-- 🌱 I’m currently learning **Node.js and React.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Web Development**
 
