@@ -1,5 +1,6 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h1>
-<h3 align="center">Welcome to my page! </br> I'm Rokas, a software engineer working at SaltPay. I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and deadlifting. </h3>
+<h3 align="center">Welcome to my page! <img src="https://img.icons8.com/color-glass/48/000000/salt-bae.png"/>
+</br> I'm Rokas, a software engineer working at SaltPay  I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and deadlifting. </h3>
 
 <div align="center">
 
@@ -14,13 +15,13 @@
 💬 Ask me about **Web Development**
 
 <h3 align="left">What I always play with</h3>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="react" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"> </code>
+
 
 <h3 align="left">Quick stats about me</h3>
 
