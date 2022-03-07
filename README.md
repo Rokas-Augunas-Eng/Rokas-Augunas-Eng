@@ -29,7 +29,7 @@
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Rokas github stats](https://github-readme-stats.vercel.app/api?username=augunasr&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Rokas top languages](https://github-readme-stats.vercel.app/api/top-langs?username=augunasr&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Rokas github stats](https://github-readme-stats.vercel.app/api?username=rokas-augunas-eng&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Rokas top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rokas-augunas-eng&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/augunasr) 
