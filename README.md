@@ -6,7 +6,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-Rokas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rokasaugunas/)](https://www.linkedin.com//in/rokasaugunas/)
   [![Gmail Badge](https://img.shields.io/badge/-augunasr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augunasr@gmail.com)](mailto:augunasr@gmail.com)
-  <p><a href="https://rokas.click/" target="_blank" >➡️ Check out my website</a></p>
+  <p><a href="https://rokas.click/" target="_blank" rel="noopener noreferrer" >➡️ Check out my website</a></p>
 </div>
 <br>
 
