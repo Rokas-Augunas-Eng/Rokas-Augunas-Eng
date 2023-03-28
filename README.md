@@ -10,7 +10,7 @@
 </div>
 <br>
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **Flutter**
 
 💬 Ask me about **Front End Engineering**
 
