@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px"> Nice to see you.</h1>
 <h3 align="center">Welcome to my page! <img src="https://img.icons8.com/color-glass/48/000000/salt-bae.png"/>
-</br> I'm Rokas, a software engineer working at SaltPay. I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://www.flaticon.com/free-icon/portugal_5372975?term=portugal+flag&page=1&position=2&origin=search&related_id=5372975" width="16"/> <b>London, United Kingdom</b>. I love solving problems, playing chess and running. </h3>
+</br> I'm Rokas, a software engineer working at SaltPay. I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>, currently living in <img src="https://flagicons.lipis.dev/flags/4x3/pt.svg" width="16"/> <b>Portugal</b>. I love solving problems, playing chess and running ultra marathons. </h3>
 
 <div align="center">
 
