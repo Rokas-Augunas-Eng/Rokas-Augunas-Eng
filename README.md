@@ -1,6 +1,6 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px"> Nice to see you.</h1>
-<h3 align="center">Welcome to my page! <img src="https://img.icons8.com/color-glass/48/000000/salt-bae.png"/>
-</br> I'm Rokas, a software engineer working at Teya. I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> <b>Lithuania</b>. I love solving problems, playing chess and running. </h3>
+<div align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px"> Nice to see you.</div>
+<div align="center">Welcome to my page! <img src="https://img.icons8.com/color-glass/48/000000/salt-bae.png"/>
+</br> I'm Rokas, a software engineer working at Teya. I'm from <img src="https://flagicons.lipis.dev/flags/4x3/lt.svg" width="16"/> Lithuania. I love solving problems, playing chess and running. </div>
 
 <div align="center">
 
