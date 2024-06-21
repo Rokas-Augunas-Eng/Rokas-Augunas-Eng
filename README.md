@@ -10,9 +10,8 @@
 </div>
 <br>
 
-🌱 I’m currently learning **Flutter**
 
-💬 Ask me about **Front End Engineering**
+💬 Ask me about **Full stack and mobile development**
 
 <h3 align="left">What I always play with</h3>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>
